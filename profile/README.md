@@ -2,7 +2,7 @@
 
 This organization is at the forefront of advancing machine intelligence around the space MMO [EVE Online](https://www.eveonline.com/). Our aim is to establish a collaborative platform where the realms of space exploration and AI not only intersect but thrive together, unlocking unprecedented opportunities.
 
-We champion the development and dissemination of state-of-the-art AI technologies, which include advanced large language models, chatbots, intelligent agents, comprehensive datasets, and tailored tools specifically designed for the dynamic and evolving universe of EVE Online.
+We champion the development and dissemination of state-of-the-art AI technologies, which include advanced large language models, chatbots, intelligent agents, APIs, datasets, and tailored tools specifically designed for the dynamic and evolving universe of EVE Online.
 
 Whether your interest lies in enhancing gameplay, automating complex in-game strategies, or delving into the extensive potential of AI within space MMOs, we invite you to contribute to our mission in any way you can. Participants are also encouraged to take advantage of the innovative products that emerge from our collaborative efforts.
 
