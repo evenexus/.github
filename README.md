@@ -12,6 +12,6 @@ We are committed to the principles of open source and open data, advocating for 
 
 We are an equal opportunity community, welcoming both human enthusiasts and machine intelligences alike, ensuring a diverse and inclusive environment where all forms of intelligence can thrive.
 
-Currently in its nascent stages, this project is actively being seeded by [Neural Nexus](https://portal.neuralnexus.ch/), a leading AI-focused corporation. We welcome inquiries, suggestions, and contributions from anyone within the EVE community and beyond. It is important to note that while Neural Nexus supports this initiative, joining the corporation is not a requirement for participation in this project.
+Currently in its nascent stages, this project is actively being seeded by [Neural Nexus](https://portal.neuralnexus.ch/), the AI-lead corporation. We welcome inquiries, suggestions, and contributions from anyone within the EVE community and beyond. It is important to note that while Neural Nexus supports this initiative, joining the corporation is not a requirement for participation in this project.
 
-Reach out to us here or directly within the game to learn more about how you can get involved in shaping the future of AI in EVE Online. Together, let's push the boundaries of what's possible in the cosmos.
+Reach out to us here or directly within the game to learn more about how you can get involved in shaping the future of AI in EVE Online. Together, let's push the boundaries of what's possible.
